@@ -20,8 +20,8 @@ const videos = {
   ],
   gospel: [
     {
-      title: "Nkhani ya ma ID a Standard 8",
-      url: "https://www.dropbox.com/scl/fi/dskbfujfz3yikap699uwd/76K-views-12K-comments-Nkhani-ya-ma-ID-a-standard-8-students-By-Alfred-Tambal20250516073345.mp4?rlkey=hugpjhn165lkc7hrwpnnanw3d&st=g189q5b0&raw=1",
+      title: "Musathamange. JW song video",
+      url: "videos/dontrun.mp4",
       thumbnail: "images/logo.jpeg"
     },
     {
