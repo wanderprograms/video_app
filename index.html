@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Malawi Video Hub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🎥 Malawi Video Hub</h1>
+    <input type="text" id="searchInput" placeholder="🔍 Search videos..." />
+  </header>
+
+  <nav>
+    <button onclick="showSection('latest')">Latest Video</button>
+    <button onclick="showSection('code')">Learning Code</button>
+    <button onclick="showSection('gospel')">Gospel</button>
+    <button onclick="showSection('music')">Music Video</button>
+    <button onclick="showSection('any')">Any Video</button>
+    <button onclick="showSection('web')">Website Hosting</button>
+  </nav>
+
+  <main id="videoSections">
+    <section id="latest" class="video-section active">
+      <h2>Latest Videos</h2>
+      <div class="video-grid" id="latestVideos"></div>
+    </section>
+    <section id="code" class="video-section">
+      <h2>Learning Code</h2>
+      <div class="video-grid" id="codeVideos"></div>
+    </section>
+    <section id="gospel" class="video-section">
+      <h2>Gospel</h2>
+      <div class="video-grid" id="gospelVideos"></div>
+    </section>
+    <section id="music" class="video-section">
+      <h2>Music Videos</h2>
+      <div class="video-grid" id="musicVideos"></div>
+    </section>
+    <section id="any" class="video-section">
+      <h2>Any Video Find Here</h2>
+      <div class="video-grid" id="anyVideos"></div>
+    </section>
+    <section id="web" class="video-section">
+      <h2>Learning Website Hosting</h2>
+      <div class="video-grid" id="webVideos"></div>
+    </section> 
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
