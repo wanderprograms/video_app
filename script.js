@@ -25,8 +25,8 @@ const videos = {
       thumbnail: "images/logo.jpeg"
     },
     {
-      title: "Video ya 2025-09-07",
-      url: "https://www.dropbox.com/scl/fi/0n1scq1oxu6psk5ix2nwn/2025-09-07-02.34.31.mp4?rlkey=2a4m14qp90e8bh5g5qrzdjvve&st=6f36ct26&raw=1",
+      title: "Tizikumbukila Imfa Ya YESU",
+      url: "videos/TIZIKUMBUKILA_IMFA_YAYESU.mp4",
       thumbnail: "images/logo.jpeg"
     },
     {
