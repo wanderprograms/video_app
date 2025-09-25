@@ -30,7 +30,7 @@ const videos = {
       thumbnail: "images/logo.jpeg"
     },
     {
-      title: "Video ya 2025-05-02",
+      title: "Tizikana ma yeselo, JW song video",
       url: "videos/man.mp4",
       thumbnail: "images/logo.jpeg"
     }
