@@ -37,8 +37,8 @@ const videos = {
   ],
   music: [
     {
-      title: "Malawi Beats",
-      url: "https://www.youtube.com/watch?v=UfQcmBjNdGU",
+      title: "BUSY_LADY_AIKA__Official_Video)",
+      url: "videos/busy.mp4",
       thumbnail: "images/waxy.jpg"
     }
   ],
