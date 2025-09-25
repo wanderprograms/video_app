@@ -38,8 +38,8 @@ const videos = {
   music: [
     {
       title: "Malawi Beats",
-      url: "https://www.dropbox.com/s/music/video5.mp4?raw=1",
-      thumbnail: "images/logo1.jpeg"
+      url: "https://www.youtube.com/watch?v=UfQcmBjNdGU",
+      thumbnail: "images/waxy.jpg"
     }
   ],
    any: [
